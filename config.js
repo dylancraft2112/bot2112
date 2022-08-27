@@ -4,10 +4,10 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['5493772642151'], //cambia aqui para ser el owner
   ['18608548497'],
-  ['5493772642151', 'Taku', true]
+  ['541127069738', 'dylancraft2112', true]
 ] // Pon tu n煤mero aqu铆
 global.mods = ['5493772642151'] // 驴Quieres ayuda?
-global.prems = ['5493772642151',] //aqui pon el numero para agregar usuarios premium si no se guarda con el comando #addprem
+global.prems = ['541127069738',] //aqui pon el numero para agregar usuarios premium si no se guarda con el comando #addprem
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
